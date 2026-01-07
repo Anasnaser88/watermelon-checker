@@ -1,0 +1,23 @@
+
+{
+  "name": "تطبيق بطيختي - فاحص ذكي",
+  "short_name": "بطيختي",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "description": "تطبيق ذكاء اصطناعي لفحص نضج البطيخ - تصميم المهندس أنس ناصر",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3194/3194784.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3194/3194784.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
